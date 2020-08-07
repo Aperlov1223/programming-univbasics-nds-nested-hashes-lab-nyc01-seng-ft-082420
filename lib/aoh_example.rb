@@ -14,11 +14,11 @@ end
 
 def literal_aoh
   [
-    [DON_G = name: "Don Gately", occupation: "Live-in Staff" ],
-    [JOELLE_VD = name:  "Joelle van Dyne", occupation: "Radio Personality" ],
-    [PAT_M =  name: "Pat Monteseian", occupation: "Staff" ],
-    [KATE_G = name:  "Kate Gompert", occupation: "None" ],
-    [BRUCE_G = name:  "Bruce Green", occupation: "Fan of Mildred" ]
+    [DON_G = "Don Gately", "Live-in Staff"],
+    [JOELLE_VD = "Joelle van Dyne", "Radio Personality"],
+    [PAT_M = "Pat Monteseian", "Staff"],
+    [KATE_G = "Kate Gompert", "None"],
+    [BRUCE_G = "Bruce Green", "Fan of Mildred"]
   ]
 end
   # Using Array literal syntax only, build a nested array that uses the data in
