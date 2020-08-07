@@ -20,7 +20,7 @@ def literal_aoh
     ["Kate Gompert", "None"],
     ["Bruce Green", "Fan of Mildred"]
   ]
-end
+
   # Using Array literal syntax only, build a nested array that uses the data in
   # held in the constants
 end
